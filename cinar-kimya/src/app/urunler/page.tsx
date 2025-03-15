@@ -89,7 +89,7 @@ const brandCatalogs = [
   {
     id: 7,
     name: 'Rollup',
-    logo: '/images/partner-logos/rollup.png',
+    logo: '/images/partner-logos/rollup.jpeg',
     catalogPdf: null
   }
 ];
