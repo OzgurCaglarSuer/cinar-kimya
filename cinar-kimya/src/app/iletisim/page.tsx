@@ -122,9 +122,9 @@ export default function Contact() {
                 Adresimiz
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                Organize Sanayi Bölgesi<br />
-                123. Sokak No: 45<br />
-                34555 İstanbul / Türkiye
+                17 Eylül Mah. <br />
+                833. Sokak No: 37<br />
+                10200 Bandırma / Türkiye
               </p>
             </div>
 
@@ -137,15 +137,15 @@ export default function Contact() {
               <div className="space-y-3">
                 <p className="text-gray-600">
                   <span className="font-medium">Telefon:</span><br />
-                  +90 (212) 123 45 67
+                  +90 (266) 718 97 97
                 </p>
                 <p className="text-gray-600">
                   <span className="font-medium">E-posta:</span><br />
-                  info@cinarkimya.com
+                  info@cinarkimya.com.tr
                 </p>
                 <p className="text-gray-600">
                   <span className="font-medium">Fax:</span><br />
-                  +90 (212) 123 45 68
+                  +90 (532) 789 37 74
                 </p>
               </div>
             </div>

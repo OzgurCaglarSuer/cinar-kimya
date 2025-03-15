@@ -6,8 +6,11 @@ import Navbar from "./components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Çınar Kimya - Endüstriyel Temizlik Ürünleri",
-  description: "Profesyonel temizlik ürünleri ve ekipmanları, kağıt ürünleri ve endüstriyel temizlik çözümleri.",
+  title: "Çınar Kimya",
+  description: "Endüstriyel Temizlik Ürünleri ve Çözümleri",
+  icons: {
+    icon: "/images/logo.png",
+  },
 };
 
 export default function RootLayout({
