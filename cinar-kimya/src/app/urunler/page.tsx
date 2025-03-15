@@ -54,42 +54,42 @@ const brandCatalogs = [
     id: 1,
     name: 'Kersia Endüstriyel',
     logo: '/images/partner-logos/kersia.png',
-    catalogPdf: '/catalogs/kersiaendustriyel.pdf'
+    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/kersiaendustriyel.pdf'
   },
   {
     id: 2,
     name: 'Kersia Gıda',
     logo: '/images/partner-logos/kersia.png',
-    catalogPdf: '/catalogs/kersiagida.pdf'
+    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/kersiagida.pdf'
   },
   {
     id: 3,
     name: 'Focus',
     logo: '/images/partner-logos/focus.png',
-    catalogPdf: '/catalogs/focus.pdf'
+    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/focus.pdf'
   },
   {
     id: 4,
     name: 'Bursa Pazarı',
     logo: '/images/partner-logos/bursapazari.png',
-    catalogPdf: '/catalogs/bursapazari.pdf'
+    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/bursapazari.pdf'
   },
   {
     id: 5,
     name: 'Rulopak',
     logo: '/images/partner-logos/rulopak.png',
-    catalogPdf: '/catalogs/rulopak.pdf'
+    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/rulopak.pdf'
   },
   {
     id: 6,
     name: 'Üçtem Plastik',
     logo: '/images/partner-logos/uctemplastik.png',
-    catalogPdf: '/catalogs/uctemplas.pdf'
+    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/uctemplas.pdf'
   },
   {
     id: 7,
     name: 'Rollup',
-    logo: '/images/partner-logos/rollup.jpeg',
+    logo: '/images/partner-logos/rollup.png',
     catalogPdf: null
   }
 ];
