@@ -7,10 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Çınar Kimya",
-  description: "Endüstriyel Temizlik Ürünleri ve Çözümleri",
-  icons: {
-    icon: "/images/logo.png",
-  },
+  description: "Endüstriyel Temizlik Ürünleri ve Çözümleri"
 };
 
 export default function RootLayout({
