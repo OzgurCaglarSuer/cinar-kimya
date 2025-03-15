@@ -54,37 +54,37 @@ const brandCatalogs = [
     id: 1,
     name: 'Kersia Endüstriyel',
     logo: '/images/partner-logos/kersia.png',
-    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/kersiaendustriyel.pdf'
+    catalogPdf: 'https://drive.google.com/file/d/1NnVZek7ut4AnofVSyHcWhH1HsJcEMGK4/view?usp=sharing'
   },
   {
     id: 2,
     name: 'Kersia Gıda',
     logo: '/images/partner-logos/kersia.png',
-    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/kersiagida.pdf'
+    catalogPdf: 'https://drive.google.com/file/d/14KpxfcCvssY2FLESmyTsYq1WhJkzSGsm/view?usp=sharing'
   },
   {
     id: 3,
     name: 'Focus',
     logo: '/images/partner-logos/focus.png',
-    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/focus.pdf'
+    catalogPdf: 'https://drive.google.com/file/d/14fM2Q9jKJBKQVHPa2nsJpvYxMBAT1yhr/view?usp=sharing'
   },
   {
     id: 4,
     name: 'Bursa Pazarı',
     logo: '/images/partner-logos/bursapazari.png',
-    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/bursapazari.pdf'
+    catalogPdf: 'https://drive.google.com/file/d/1EkGELvILqYep5qsAz4lt9uMrFUnL6mGf/view?usp=sharing'
   },
   {
     id: 5,
     name: 'Rulopak',
     logo: '/images/partner-logos/rulopak.png',
-    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/rulopak.pdf'
+    catalogPdf: 'https://drive.google.com/file/d/1PdWW6LQv8ty_EE6IIqmBmxwEJptUrqfb/view?usp=sharing'
   },
   {
     id: 6,
     name: 'Üçtem Plastik',
     logo: '/images/partner-logos/uctemplastik.png',
-    catalogPdf: 'https://drive.google.com/drive/folders/1GpnrKESqhbHidaAQ-0jPjBj2uzHPF0re?usp=drive_link/uctemplas.pdf'
+    catalogPdf: 'https://drive.google.com/file/d/1Z7GuiJbvegiVg77p5bsD9QXDzRnovUJU/view?usp=sharing'
   },
   {
     id: 7,
